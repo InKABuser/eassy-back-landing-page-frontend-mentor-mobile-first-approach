@@ -494,3 +494,10 @@ footer {
         grid-area: 3 / 10 / 4 / 13;
     }
 } 
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+     grid-area: 3 / 9 / 4 /10 ; 
+ }
+    .attribution a { color: var(--Lime-Green); }
